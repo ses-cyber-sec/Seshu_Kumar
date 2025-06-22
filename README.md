@@ -37,9 +37,9 @@
 
 ## 💬 Let’s Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/secnom/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rseshukumar/)  
 - 💻 [GitHub](https://github.com/secnom)  
-- 🌐 [Portfolio/Blog](#) — *Coming soon, stay tuned!*
+- 🌐 [Portfolio/Blog]([#](https://medium.com/@seshu6999)) 
 
 ---
 
