@@ -39,7 +39,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rseshukumar/)  
 - 💻 [GitHub](https://github.com/secnom)  
-- 🌐 [Portfolio/Blog]([#](https://medium.com/@seshu6999)) 
+- 🌐 [Portfolio/Blog](https://medium.com/@seshu6999) 
 
 ---
 
